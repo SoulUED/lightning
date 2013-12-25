@@ -169,13 +169,13 @@
       margin-left: -15px;
       bottom: 23px; }
     #container .con-cuskind:hover .cuskind-color-0{
-        background: #EBA352;
+        background: #3ec4cb;
     }
 #container .con-cuskind:hover .cuskind-color-1{
-    background: #18e3b3;
+    background: #3ec4cb;
 }
 #container .con-cuskind:hover .cuskind-color-2{
-    background: #70f131;
+    background: #3ec4cb;
 }
   #container:after {
     content: " ";
